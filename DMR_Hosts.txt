@@ -1,6 +1,6 @@
 #	DMR_Hosts.txt
 #
-#	Ditulis untuk Pi-Star Digital Voice Node oleh Raden (YC5NCB/JZ04MIB)
+#	Ditulis untuk Pi-Star Digital Voice Node oleh Hanafi Handoko (YD0AXC/JZ09KAA)
 #	Ide dari Adrian Craig (M0GLJ)
 #
 #	Updated 09-Jul-2022
@@ -8,7 +8,7 @@
 #	The format file ini harus mengikuti aturan menggunakan TAB
 #	IP address / Hotname / Password. TIDAK ADA SPASI!!
 #
-#	Diunduh dari https://raw.githubusercontent.com/midjaya/rap/main/DMR_Hosts.txt
+#	Diunduh dari https://raw.githubusercontent.com/hanafihandoko/rap/main/DMR_Hosts.txt
 #
 ######################################################################################################
 #
