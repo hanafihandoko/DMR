@@ -29,6 +29,7 @@ DMR2NXDN			0000	127.0.0.3				none		62035
 ######################################################################################################
 BM_5021_Malaysia		5021	5021.master.brandmeister.network	passw0rd	62031
 BM_5051_Australia		5051	5051.master.brandmeister.network	passw0rd	62031
+QRM	 	              31200 66.42.114.24 	                    passw0rd 	62031
 ######################################################################################################
 #
 #				HBLink/FreeDMR Radio Antar Penduduk Indonesia ID Hosts sebagai berikut
