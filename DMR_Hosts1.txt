@@ -1,0 +1,36 @@
+#
+######################################################################################################
+#
+#				DMRGateway / Internal Hosts Below
+#
+######################################################################################################
+# Name				DMR-ID	IP/Hostname				Password	Port #
+######################################################################################################
+DMRGateway			0000	127.0.0.1				none		62031
+DMR2YSF				0000	127.0.0.2				none		62033
+DMR2NXDN			0000	127.0.0.3				none		62035
+######################################################################################################
+#	Custom DMR_Hosts.txt
+#
+#	Written for Pi-Star Digital Voice Node by Andy Taylor (MW0MWZ)
+#
+#	The format of this file is the name of the reflector followed by its
+#	IP address / Hotname / Password. TAB delimited only NO SPACES!!
+#
+#	Please ensure BrandMeister Masters are prefixed with BM_
+#	Please ensure Phoenix / DMR+ Masters are prefixed with DMR+_
+#
+#	Passwords / Ports ARE important too!
+#
+##############################################################################################
+#
+#				Custom DMR Hosts
+#
+##############################################################################################
+# Name				DMR-ID	IP/Hostname			    Password	  Port #
+##############################################################################################
+
+PUSDALOP			0000	  103.187.146.133			passw0rd		62030
+
+##############################################################################################
+
