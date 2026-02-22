@@ -9,11 +9,9 @@
 BM_5021_Malaysia		5021	    5021.master.brandmeister.network	passw0rd	  62031
 BM_5051_Australia		5051	    5051.master.brandmeister.network	passw0rd	  62031
 PUSDALOP			      0000	    103.174.114.98			              passw0rd		62030
-KRAP                0000      103.174.114.231                   passw0rd    62030 
+KRAP_dmr            0000      103.174.114.231                   passw0rd    62030 
 DMR+_K2PI           0000      103.245.38.161  	                passw0rd    62030
 DMR+_KrapNusantara  0000      103.245.38.161  	                passw0rd    62036
-KRAP_DMR		        0000      103.174.114.231 	                passw0rd    62030
-PUSDALOP		        0000	    103.174.114.98		                passw0rd	  62030
 TOMBOL_PTT		      0000	    dmr.tombolptt.my.id	              passw0rd	  62031
 ######################################################################################################
 #	Custom DMR_Hosts.txt
