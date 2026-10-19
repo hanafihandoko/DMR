@@ -10,7 +10,7 @@ BM_5021_Malaysia    5021      5021.master.brandmeister.network   passw0rd  62031
 BM_5051_Australia   5051      5051.master.brandmeister.network   passw0rd  62031
 K2PI_555            0000      103.245.38.161                     passw0rd  62030
 K2PI_200            0000      103.245.38.161                     passw0rd  62036
-BRIDI               0000      bridi.my.id                        passw0rd  62031
+BRIDI               0000      bridi.my.id                        bridi12a  62031
 ######################################################################################################
 #	Custom DMR_Hosts.txt
 #
