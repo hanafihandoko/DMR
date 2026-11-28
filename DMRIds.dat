@@ -1,92 +1,149 @@
-1022123,BD11ANT,Juli,rianto,Peureulak Barat,,Indonesia,BRIDI
-1022174,BD11TGI,ANDI,SAMSU RIDHA,Banda Aceh,,Indonesia,BRIDI
-1022001,BD12AA,ALI,AKBAR,"Langkat, Sumatera Utara",,Indonesia,BRIDI
-1022104,BD12ALX,Alexandra,,"Binjai, Sumatera Utara",,Indonesia,BRIDI
-1022143,BD12AST,MUHAMMAD,TAUFIK,"Pematangsiantar, Sumatera Utara",,Indonesia,BRIDI
-1022019,BD12BCG,ZULKARNAIN,,Medan,,Indonesia,BRIDI
-1022130,BD12BSJ,ANTON,MARPAUNG,Sumatera Utara,,Indonesia,BRIDI
-1022042,BD12HMY,ZALDIE,,"Medan Petisah, Medan",,Indonesia,BRIDI
-1022178,BD12JWW,Bergiat,Sinukaban,Medan,,Indonesia,BRIDI
-1022195,BD12QCD,ASRUL,RAMBE,Medan,,Indonesia,BRIDI
-1022154,BD12XWZ,RAFLIS,SALAM,Padangsidimpuan Tenggara,,Indonesia,BRIDI
-1022004,BD12ZK,ZULFAN,KELANA,Kota Medan,,Indonesia,BRIDI
-1022011,BD14DA,DENY,,"Pelalawan, Riau",,Indonesia,BRIDI
-1022099,BD15AFZ,Anang,Firmanto,Jambi,,Indonesia,BRIDI
-1022054,BD15KIN,SOLIKIN,,Muaro Jambi,,Indonesia,BRIDI
-1022058,BD31ACN,JOHAN,,Tanjung Priok,,Indonesia,BRIDI
-1022029,BD31AWH,INDRA,,Jakarta Selatan,,Indonesia,BRIDI
-1022031,BD31AXC,FIKO,,Jakarta Timur,,Indonesia,BRIDI
-1022046,BD31BRN,BARON,,"Penjaringan, Jakarta Utara",,Indonesia,BRIDI
-1022185,BD31CB,Iwan,Santoso,Jakarta Utara,,Indonesia,BRIDI
-1022012,BD31SFK,KUKUH,doblank,Jakarta Pusat,,Indonesia,BRIDI
-1022197,BD31TEH,SUNARYO,MADHADI,Jakarta Timur,,Indonesia,BRIDI
-1022045,BD31TNI,DIDIK,,Jakarta Selatan,,Indonesia,BRIDI
-1022144,BD31ZZR,H.Darwis,Cicilia,"Tanjung Priok, Jakarta Utara",,Indonesia,BRIDI
-1022003,BD32AFF,INDRA,ISWARA,Kota Bekasi,,Indonesia,BRIDI
-1022043,BD32ARI,ARICHEPOT,,"Cirebon, Jawa Barat",,Indonesia,BRIDI
-1022034,BD32DR,RADDY,IRMAWAN,Kota Bandung,,Indonesia,BRIDI
-1022192,BD32FEQ,Budi,Cahyadi,"Bandung, Jawa Barat",,Indonesia,BRIDI
-1022111,BD32GJSP,PAMUNGKAS,,Bandung,,Indonesia,BRIDI
-1022037,BD32IXM,DIAN,HERMAWAN,"Ciamis, Jawa Barat",,Indonesia,BRIDI
-1022022,BD32LLB,HADIYANTO,,Bekasi,,Indonesia,BRIDI
-1022040,BD32RZL,RIZAL,,Bandung Barat,,Indonesia,BRIDI
-1022113,BD33JNL,Budi,Santosa,Blora,,Indonesia,BRIDI
-1022002,BD33PS,PARSONO,,Pekalongan Utara,,Indonesia,BRIDI
-1022175,BD33YWS,Cahyono,Dwikartiputra,"Borobudur, Magelang",,Indonesia,BRIDI
-1022023,BD34ANG,ANANG,,"Kalasan, Sleman",,Indonesia,BRIDI
-1022041,BD34BAN,BAMBANG,,Sleman,,Indonesia,BRIDI
-1022098,BD34BRJ,Anang,Hidayat,Daerah Istimewa Yogyakarta,,Indonesia,BRIDI
-1022110,BD35BWI,Anang,Nugroho,Banyuwangi,,Indonesia,BRIDI
-1022018,BD35IIK,SUWITO,,"Malang, Jawa Timur",,Indonesia,BRIDI
-1022007,BD35JO,SARJONO,,"Surabaya, Jawa Timur",,Indonesia,BRIDI
-1022060,BD35JRY,JERRY,,Surabaya,,Indonesia,BRIDI
-1022063,BD35QRK,HARYADI,,"Lowokwaru, Malang",,Indonesia,BRIDI
-1022051,BD35SFS,SUBHAN,FS,Bangkalan,,Indonesia,BRIDI
-1022038,BD36HAN,I,HANAFI,Kota Serang,,Indonesia,BRIDI
-1022196,BD36ORD,Muhammad,gunawan,"Ciputat Timur, Tangerang Selatan",,Indonesia,BRIDI
-1022107,BD51DENY,Denny,sutio,"Denpasar, Bali",,Indonesia,BRIDI
-1022069,BD51HTY,YUDHA,,Buleleng,,Indonesia,BRIDI
+RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY,REMARKS
+1022989,BD00TS3,TS3,Sahabat Nusantara,TeamSpeak,,Indonesia,BRIDI
+1110123,BD11ANT,JULI,RIANTO,Peureulak Barat,,Indonesia,BRIDI
+1110204,BD11JCK,Saiful,ahmadi,Aceh Selatan,,Indonesia,BRIDI
+1110994,BD11NIX,Avis,,Banda Aceh,,Indonesia,BRIDI
+1110174,BD11TGI,ANDI,SAMSU RIDHA,Banda Aceh,,Indonesia,BRIDI
+1110992,BD11THF,AHMAD,RUDI HIDAYAT,"Peunaron, Aceh Timur",,Indonesia,BRIDI
+1110086,BD11WGS,AJI,"MASRIAN, SE","Peureulak Barat, Aceh Timur",,Indonesia,BRIDI
+1120001,BD12AA,ALI,AKBAR,"Langkat, Sumatera Utara",,Indonesia,BRIDI
+1120096,BD12AGM,KAMALUDDIN,,"Tanjung Pura, Langkat",,Indonesia,BRIDI
+1120006,BD12ALI,ALI,,"Langkat, Sumatera Utara",,Indonesia,BRIDI
+1120104,BD12ALX,Alexandra,,"Binjai, Sumatera Utara",,Indonesia,BRIDI
+1120147,BD12AON,JUSUF,SARTONO,Medan,,Indonesia,BRIDI
+1120143,BD12AST,MUHAMMAD,TAUFIK,"Pematangsiantar, Sumatera Utara",,Indonesia,BRIDI
+1120068,BD12AVQ,"Ashwad,",ST,"Stabat, Langkat",,Indonesia,BRIDI
+1120019,BD12BCG,ZULKARNAIN,,Medan,,Indonesia,BRIDI
+1120108,BD12BNN,RADEN,WIJAYA,Medan,,Indonesia,BRIDI
+1120130,BD12BSJ,ANTON,MARPAUNG,Sumatera Utara,,Indonesia,BRIDI
+1120073,BD12BSP,SUPRIONO,,Medan,,Indonesia,BRIDI
+1120008,BD12DD,DEDEN,,"Sunggal, Deli Serdang",,Indonesia,BRIDI
+1120042,BD12HMY,ZALDIE,,"Medan Petisah, Medan",,Indonesia,BRIDI
+1022990,BD12INA,Neng,Rina,Medan,,Indonesia,BRIDI
+1120112,BD12JIN,Fajrin,Nur M,Deli Serdang,,Indonesia,BRIDI
+1120178,BD12JWW,Bergiat,Sinukaban,Medan,,Indonesia,BRIDI
+1120010,BD12MHN,MAHONI,,Langkat,,Indonesia,BRIDI
+1120056,BD12MWT,MISWANTO,,Deli Serdang,,Indonesia,BRIDI
+1120048,BD12NUR,UDIN,,"Medan, Sumatera Utara",,Indonesia,BRIDI
+1120088,BD12PBQ,Kuswandi,Arief,"Medan Barat, Medan",,Indonesia,BRIDI
+1120195,BD12QCD,ASRUL,RAMBE,Medan,,Indonesia,BRIDI
+1120080,BD12RN,WAK,NANANG,Medan Helvetia,,Indonesia,BRIDI
+1120152,BD12TIK,RINTO,SIMATUPANG,"Gebang, Langkat",,Indonesia,BRIDI
+1120154,BD12XWZ,RAFLIS,SALAM,Kota Padangsidimpuan,,Indonesia,BRIDI
+1120004,BD12ZK,ZULFAN,KELANA,Kota Medan,,Indonesia,BRIDI
+1120027,BD12ZPP,bravo,,Samosir,,Indonesia,BRIDI
+1140190,BD14ADC,SUHARYONO,,"Tenayan Raya, Pekanbaru",,Indonesia,BRIDI
+1140028,BD14AKU,HERYANTO,,Pekanbaru,,Indonesia,BRIDI
+1140074,BD14BGJ,Rimanto,,Pekanbaru,,Indonesia,BRIDI
+1140011,BD14DA,DENY,,"Pelalawan, Riau",,Indonesia,BRIDI
+1140013,BD14NMM,JOHAN,,Pekanbaru,,Indonesia,BRIDI
+1140025,BD14RA,DITA,,Riau,,Indonesia,BRIDI
+1150099,BD15AFZ,Anang,Firmanto,Jambi,,Indonesia,BRIDI
+1150054,BD15KIN,SOLIKIN,,Muaro Jambi,,Indonesia,BRIDI
+1160209,BD16IQZ,rusli,,Lubuk Linggau,,Indonesia,BRIDI
+1180089,BD18SOA,Bolang,,Metro,,Indonesia,BRIDI
+1180207,BD18TDQ,Bang,yon,Bandar Lampung,,Indonesia,BRIDI
+1310058,BD31ACN,JOHAN,,Tanjung Priok,,Indonesia,BRIDI
+1310101,BD31AVR,HARIS,,Jakarta Barat,,Indonesia,BRIDI
+1310029,BD31AWH,INDRA,,Jakarta Selatan,,Indonesia,BRIDI
+1310031,BD31AXC,FIKO,,Jakarta Timur,,Indonesia,BRIDI
+1310030,BD31BAP,ABENK,,Jakarta Timur,,Indonesia,BRIDI
+1310046,BD31BRN,BARON,,"Penjaringan, Jakarta Utara",,Indonesia,BRIDI
+1310129,BD31BVW,Rudi,Hatman,Jakarta Timur,,Indonesia,BRIDI
+1310185,BD31CB,Iwan,Santoso,Jakarta Utara,,Indonesia,BRIDI
+1310076,BD31CZS,sambroFPV,,Jakarta Barat,,Indonesia,BRIDI
+1310094,BD31DRG,John,Gunawan,Jakarta Barat,,Indonesia,BRIDI
+1310059,BD31EKO,EKO,WKS,Jakarta Timur,,Indonesia,BRIDI
+1310105,BD31MQS,John,Gunawan,Jakarta Barat,,Indonesia,BRIDI
+1310125,BD31OKE,EKO,,Jakarta Timur,,Indonesia,BRIDI
+1310127,BD31RAB,FEY,TUS,"Makasar, Jakarta Timur",,Indonesia,BRIDI
+1310012,BD31SFK,doblank,KUKUH,Jakarta Pusat,,Indonesia,BRIDI
+1310991,BD31SSZ,Sinshe,nJoz,Jakarta Timur,,Indonesia,BRIDI
+1310197,BD31TEH,SUNARYO,MADHADI,Jakarta Timur,,Indonesia,BRIDI
+1310045,BD31TNI,DIDIK,,Jakarta Selatan,,Indonesia,BRIDI
+1310993,BD31UHK,RICKY,R TJANDRA,Jakarta Barat,,Indonesia,BRIDI
+1310081,BD31VKD,RANGGA/ZZZ,,Daerah Khusus Ibukota Jakarta,,Indonesia,BRIDI
+1310201,BD31WNL,IWAN,SETIAWAN,Jakarta Utara,,Indonesia,BRIDI
+1310082,BD31XRG,OKY,AWH,Jakarta Timur,,Indonesia,BRIDI
+1310995,BD31XTJ,Abraham,noke,Jakarta Selatan,,Indonesia,BRIDI
+1310144,BD31ZZR,H.Darwis,Cicilia,"Tanjung Priok, Jakarta Utara",,Indonesia,BRIDI
+1320003,BD32AFF,INDRA,ISWARA,Kota Bekasi,,Indonesia,BRIDI
+1320043,BD32ARI,ANWARI,,"Cirebon, Jawa Barat",,Indonesia,BRIDI
+1320198,BD32BZB,Undang,Solihin,Garut,,Indonesia,BRIDI
+1320034,BD32DR,RADDY,IRMAWAN,Kota Bandung,,Indonesia,BRIDI
+1320192,BD32FEQ,Budi,Cahyadi,"Bandung, Jawa Barat",,Indonesia,BRIDI
+1320111,BD32GJSP,PAMUNGKAS,,Bandung,,Indonesia,BRIDI
+1320998,BD32IWN,Iwan,Hermawan,Bekasi,,Indonesia,BRIDI
+1320037,BD32IXM,DIAN,HERMAWAN,"Ciamis, Jawa Barat",,Indonesia,BRIDI
+1320022,BD32LLB,HADIYANTO,,Bekasi,,Indonesia,BRIDI
+1320146,BD32MBG,Mank,Haroen,Bogor,,Indonesia,BRIDI
+1320040,BD32RZL,RIZAL,,Bandung Barat,,Indonesia,BRIDI
+1330085,BD33BHI,M,ATHA H A,Pekalongan Utara,,Indonesia,BRIDI
+1330078,BD33GON,KRISNO,,Banjarnegara,,Indonesia,BRIDI
+1330113,BD33JNL,Budi,Santosa,Blora,,Indonesia,BRIDI
+1330002,BD33PS,PARSONO,,Pekalongan,,Indonesia,BRIDI
+1330206,BD33YMQ,INDRADI,,Karanganyar,,Indonesia,BRIDI
+1330175,BD33YWS,Cahyono,Dwikartiputra,"Borobudur, Magelang",,Indonesia,BRIDI
+1340041,BD34BAN,BAMBANG,,Sleman,,Indonesia,BRIDI
+1340098,BD34BRJ,Anang,Hidayat,Daerah Istimewa Yogyakarta,,Indonesia,BRIDI
+1340071,BD34QRT,Anthoni,Cahyo ns,Bantul,,Indonesia,BRIDI
+1340203,BD34WAQ,Hasantosa,,Bantul,,Indonesia,BRIDI
+1350202,BD35AVG,Panca,,"Malang, Jawa Timur",,Indonesia,BRIDI
+1350093,BD35BIX,MOHAMMAD,"HARI YAMIN, SH",Bangkalan,,Indonesia,BRIDI
+1350110,BD35BWI,Anang,Nugroho,Banyuwangi,,Indonesia,BRIDI
+1350083,BD35EFO,Satriya,adi,Kota Surabaya,,Indonesia,BRIDI
+1350210,BD35EPJ,Paijo,Sampang,Sampang,,Indonesia,BRIDI
+1350018,BD35IIK,SUWITO,,"Malang, Jawa Timur",,Indonesia,BRIDI
+1350065,BD35IRW,IRWAN,,Surabaya,,Indonesia,BRIDI
+1350007,BD35JO,SARJONO,,"Surabaya, Jawa Timur",,Indonesia,BRIDI
+1350060,BD35JRY,JERRY,,Surabaya,,Indonesia,BRIDI
+1350164,BD35JSI,AAN,H,Surabaya,,Indonesia,BRIDI
+1350092,BD35MRD,Doddy,,Surabaya,,Indonesia,BRIDI
+1350063,BD35QRK,HARYADI,,"Lowokwaru, Malang",,Indonesia,BRIDI
+1350084,BD35QUL,Widjojo,koesoemo,Surabaya,,Indonesia,BRIDI
+1350168,BD35RDS,IMAM,MAHMUDI,Pasuruan,,Indonesia,BRIDI
+1350051,BD35SFS,SUBHAN,FS,Bangkalan,,Indonesia,BRIDI
+1350169,BD35SFX,CAREZZA,ARDHY SETIAJI,"Waru, Sidoarjo",,Indonesia,BRIDI
+1350077,BD35VRN,RIJQI,SADAM FAUZI,"Blitar, Jawa Timur",,Indonesia,BRIDI
+1350017,BD35YKB,YAKOB,,Surabaya,,Indonesia,BRIDI
+1350205,BD35YOW,Teguh,Sarwo Aji,"Pasuruan, Jawa Timur",,Indonesia,BRIDI
+1350182,BD35YYD,itmamul,wafa,Surabaya,,Indonesia,BRIDI
+1360070,BD36DWJ,JOKO,SUSANTO,"Tangerang, Banten",,Indonesia,BRIDI
+1360038,BD36HAN,I,HANAFI,Kota Serang,,Indonesia,BRIDI
+1360196,BD36ORD,Muhammad,gunawan,"Ciputat Timur, Tangerang Selatan",,Indonesia,BRIDI
+1360200,BD36OWL,PRALINTAS,HB ADANG,Tangerang,,Indonesia,BRIDI
+1510064,BD51BA,BLI,WAYAN,"Denpasar, Bali",,Indonesia,BRIDI
+1510119,BD51BGA,AGUS,SUDIADNYANA,Buleleng,,Indonesia,BRIDI
+1510187,BD51BOO,RAKA,,Tabanan,,Indonesia,BRIDI
+1510997,BD51BRO,AMIRUDIN,,Bali,,Indonesia,BRIDI
+1510107,BD51DENY,Denny,sutio,"Denpasar, Bali",,Indonesia,BRIDI
+1510069,BD51HTY,YUDHA,,Buleleng,,Indonesia,BRIDI
+1510061,BD51WP,PONGKI,,Badung,,Indonesia,BRIDI
+1510087,BD51YHP,Erry,Dirta,Badung,,Indonesia,BRIDI
+1520199,BD52PXX,RAMLI,,Bima,,Indonesia,BRIDI
 1022141,BD62ACJ,Uday,,Jakarta timur,,Indonesia,BRIDI
-1022190,BD62ADC,SUHARYONO,,Kota Pekanbaru,,Indonesia,BRIDI
 1022049,BD62AET,ISWADI,,"Sorong, Pbd",,Indonesia,BRIDI
 1022139,BD62AFN,Iqbal,husaini,Jakarta timur,,Indonesia,BRIDI
-1022096,BD62AGM,KAMALUDDIN,,Langkat,,Indonesia,BRIDI
 1022186,BD62AKE,starky,aji,yogyakarta,,Indonesia,BRIDI
-1022028,BD62AKU,HERYANTO,,PEKANBARU,,Indonesia,BRIDI
-1022006,BD62ALI,ALI,,,,Indonesia,BRIDI
 1022091,BD62AMR,Amir,Iman,Jakarta,,Indonesia,BRIDI
-1022147,BD62AON,JUSUF,SARTONO,Kota Medan,,Indonesia,BRIDI
 1022015,BD62AR,ANDRIK,,,,Indonesia,BRIDI
-1022101,BD62AVR,HARIS,,Jakarta Barat,,Indonesia,BRIDI
 1022014,BD62AWS,AWANG,SUMARDI,Jambi,,Indonesia,BRIDI
-1022064,BD62BA,BLI,WAYAN,Bali,,Indonesia,BRIDI
-1022030,BD62BAP,ABENK,,Jaktim,,Indonesia,BRIDI
-1022033,BD62BCC,JHONAL,,,,Indonesia,BRIDI
 1022160,BD62BD,Davidcy,,Pekanbaru,,Indonesia,BRIDI
 1022157,BD62BDL,SUNARDI,DWIPUTRANTO,YOGYAKARTA,,Indonesia,BRIDI
-1022119,BD62BGA,AGUS,SUDIADNYANA,Buleleng,,Indonesia,BRIDI
-1022093,BD62BIX,Hari,yamin,Bangkalan - Madura,,Indonesia,BRIDI
-1022108,BD62BNN,RADEN,WIJAYA,Medan,,Indonesia,BRIDI
-1022187,BD62BOO,RAKA,,DENPASAR BALI,,Indonesia,BRIDI
 1022122,BD62BSX,FIRDAUS,MOECHTAR,"Sepatan, Kab. Tangerang",,Indonesia,BRIDI
-1022129,BD62BVW,Rudi,Hatman,Jakarta timur,,Indonesia,BRIDI
 1022167,BD62CAN,IMAM,ZULFIKAR,Makassar,,Indonesia,BRIDI
 1022145,BD62CII,Betantyo,Wisnu Hernawan,Bangakalan,,Indonesia,BRIDI
 1022131,BD62CLC,edi,triyanto,Banten,,Indonesia,BRIDI
-1022008,BD62DD,DEDEN,,"Medan, Sumut",,Indonesia,BRIDI
 1022032,BD62DDF,TYO,,Jakarta Timur,,Indonesia,BRIDI
 1022026,BD62DEF,DHEFFY,,Jambi,,Indonesia,BRIDI
 1022140,BD62DOA,usman,skm,Aceh Timur,,Indonesia,BRIDI
 1022138,BD62DOM,Anthoni,salam,Aceh timur,,Indonesia,BRIDI
-1022094,BD62DRG,John,Gunawan,Jakarta Barat,,Indonesia,BRIDI
 1022109,BD62DWY,Dwy,Sishadi,Banjarmasin,,Indonesia,BRIDI
 1022158,BD62EAZ,Darul,Amany,Pkl Brandan,,Indonesia,BRIDI
 1022148,BD62EGW,AHMAD,AZWAR,LANGKAT,,Indonesia,BRIDI
 1022171,BD62EIB,Ibnu,hajar imam satya,Medan,,Indonesia,BRIDI
-1022059,BD62EKO,EKO,WKS,Jakarta,,Indonesia,BRIDI
 1022102,BD62FEB,Febri,Antonia,Tulungagung,,Indonesia,BRIDI
 1022180,BD62FES,Ismail,,Tarakan,,Indonesia,BRIDI
-1022136,BD62FEY,FEY_TUS,,Jakarta,,Indonesia,BRIDI
 1022173,BD62FHY,Bang,Wijaya,Medan,,Indonesia,BRIDI
 1022047,BD62GDL,GUNDUL,,Kaltim,,Indonesia,BRIDI
 1022044,BD62GJS,PAMUNGKAS,,Bandung,,Indonesia,BRIDI
@@ -97,12 +154,9 @@
 1022150,BD62HBC,IDHAM,,LANGKAT,,Indonesia,BRIDI
 1022137,BD62HBQ,Keke,Anita,Depok Jawa Barat,,Indonesia,BRIDI
 1022193,BD62HVS,M.sued,,Bangkalan,,Indonesia,BRIDI
-1022065,BD62IRW,IRWAN,,Surabaya,,Indonesia,BRIDI
 1022177,BD62IRZ,Andre,Binsar,Jakarta,,Indonesia,BRIDI
 1022005,BD62JDM,JAMALUDDIN,,"Tanjung Jabung, Jambi",,Indonesia,BRIDI
-1022112,BD62JIN,Fajrin,Nur M,Medan,,Indonesia,BRIDI
 1022162,BD62JKW,Muhammad,Mirza,Medan,,Indonesia,BRIDI
-1022164,BD62JSI,AAN,H,SURABAYA,,Indonesia,BRIDI
 1022115,BD62JXA,Agus,Supangkat,Jakarta Barat,,Indonesia,BRIDI
 1022024,BD62KA,KUSWANDI,,Medan,,Indonesia,BRIDI
 1022095,BD62KLT,Putu,Anggaradana,Denpasar Bali,,Indonesia,BRIDI
@@ -113,39 +167,23 @@
 1022163,BD62LYI,I,PUTU ANDRE WIDIANA PUTRA,KAB. KARANGASEM,,Indonesia,BRIDI
 1022106,BD62MAL,Muhammad,Amirudin Lutfi,Musi Banyuasin,,Indonesia,BRIDI
 1022194,BD62MAO,Rachmadi,,Bangkalan,,Indonesia,BRIDI
-1022146,BD62MBG,Mank,Haroen,Jasinga Bogor,,Indonesia,BRIDI
-1022010,BD62MHN,MAHONI,,Langkat,,Indonesia,BRIDI
 1022161,BD62MPZ,SURYANTO,,YOGYAKARTA,,Indonesia,BRIDI
-1022105,BD62MQS,John,Gunawan,Jakarta Barat,,Indonesia,BRIDI
-1022092,BD62MRD,Doddy,,Surabaya,,Indonesia,BRIDI
 1022114,BD62MRQ,Muamar,Qadafi,Batanghari,,Indonesia,BRIDI
 1022142,BD62MSN,muhtar,sanusi,Pangkalan Ketinci,,Indonesia,BRIDI
 1022132,BD62MTH,Ade,saeful bahri,Garut,,Indonesia,BRIDI
-1022056,BD62MWT,MISWANTO,,Medan,,Indonesia,BRIDI
-1022016,BD62NIR,NIRWAN,,,,Indonesia,BRIDI
 1022181,BD62NLI,EKO,WKS,JAKARTA,,Indonesia,BRIDI
-1022013,BD62NMM,JOHAN,,PEKANBARU,,Indonesia,BRIDI
 1022039,BD62NPC,SUTAN,PL,,,Indonesia,BRIDI
-1022048,BD62NUR,UDIN,,Medan,,Indonesia,BRIDI
 1022165,BD62OEF,Agus,supriyono,Banyuwangi,,Indonesia,BRIDI
-1022125,BD62OKE,EKO,,Jakarta,,Indonesia,BRIDI
 1022184,BD62OYY,Jeki,,Bekasi,,Indonesia,BRIDI
 1022153,BD62OYZ,HARIYAMIN,,Bangkalan - Madura,,Indonesia,BRIDI
 1022176,BD62QLW,Agus,Syah,Langkat,,Indonesia,BRIDI
 1022155,BD62QPE,INDRA,,PADANGSIDIMPUAN,,Indonesia,BRIDI
-1022025,BD62RA,DITA,,Pekan Baru,,Indonesia,BRIDI
-1022127,BD62RAB,FEY,TUS,Jakarta Timur,,Indonesia,BRIDI
 1022124,BD62RAC,Haroen,Wahid,Bogor Barat,,Indonesia,BRIDI
-1022168,BD62RDS,IMAM,MAHMUDI,PASURUAN,,Indonesia,BRIDI
 1022053,BD62RED,ADI,,Jakarta,,Indonesia,BRIDI
 1022189,BD62RQR,H,Sabri yahya,Bontang kaltim,,Indonesia,BRIDI
-1022035,BD62RRR,KABUL,,"Sorong, Pbd",,Indonesia,BRIDI
 1022118,BD62RTO,JULI,RIANTO,Kabupaten Aceh Timur,,Indonesia,BRIDI
-1022169,BD62SFX,CAREZZA,ARDHY SETIAJI,SIDOARJO,,Indonesia,BRIDI
 1022135,BD62SJU,Ade,Sumarna,Jakarta 13520,,Indonesia,BRIDI
-1022050,BD62SLH,M.SALEH,,,,Indonesia,BRIDI
 1022066,BD62THE,ARIE,NUGROHO,Kota Tangerang Selatan,,Indonesia,BRIDI
-1022152,BD62TIK,RINTO,SIMATUPANG,LANGKAT,,Indonesia,BRIDI
 1022055,BD62TNS,TONI,,Mampang,,Indonesia,BRIDI
 1022097,BD62TRK,M.,Saleh,"Tarakan, Kaltara",,Indonesia,BRIDI
 1022117,BD62UMR,Ali,Umar,Cengkareng Jakarta Barat,,Indonesia,BRIDI
@@ -153,18 +191,26 @@
 1022191,BD62UTI,FAISAL,,ACEH PEUREULAK,,Indonesia,BRIDI
 1022156,BD62VII,RAINDY,PRIMA,YOGYAKARTA,,Indonesia,BRIDI
 1022133,BD62WAN,Wang,harto,Mataram,,Indonesia,BRIDI
-1022188,BD62WCU,BAMBANG,BUDI P,TARAKAN,,Indonesia,BRIDI
 1022170,BD62WEI,Hendro,HDK,Surabaya,,Indonesia,BRIDI
 1022036,BD62WHY,WAHYU,,"Muaro Jambi, Jambi",,Indonesia,BRIDI
-1022061,BD62WP,PONGKI,,"Badung, Bali",,Indonesia,BRIDI
 1022159,BD62XBG,Heru,Gunawan,"Sleman, jogjakarta",,Indonesia,BRIDI
 1022120,BD62YCF,Goam,Sugoam,Medan,,Indonesia,BRIDI
-1022017,BD62YKB,YAKOB,,Surabaya,,Indonesia,BRIDI
 1022128,BD62YON,Yoni,Rusdiana,Kab. Tangerang,,Indonesia,BRIDI
 1022020,BD62YUS,YUSTINUS,WARUWU,"Sibolga, Sumut",,Indonesia,BRIDI
-1022182,BD62YYD,itmamul,wafa,surabaya,,Indonesia,BRIDI
 1022151,BD62ZIS,GEDE,,Lampung,,Indonesia,BRIDI
-1022057,BD73BOT,IMAM,,Makassar,,Indonesia,BRIDI
-1022021,BD96ACX,TRI,BUDI,"Sorong Utara, Sorong",,Indonesia,BRIDI
+1650075,BD65ABC,MUHAMMAD,SALEH,"Tarakan, Kalimantan Utara",,Indonesia,BRIDI
+1650067,BD65DEH,TAKIL,EFFENDY,Tarakan,,Indonesia,BRIDI
+1650072,BD65IFW,M,. MUNAJAT,Tarakan,,Indonesia,BRIDI
+1650016,BD65NIR,NIRWAN,,Tarakan,,Indonesia,BRIDI
+1650050,BD65SLH,M.SALEH,,"Tarakan, Kalimantan Utara",,Indonesia,BRIDI
+1650188,BD65WCU,BAMBANG,BUDI P,"Tarakan, Kalimantan Utara",,Indonesia,BRIDI
+1730057,BD73BOT,IMAM,,Makassar,,Indonesia,BRIDI
+1730996,BD73XVU,Muhammad,Syamsul Gafur,Kota Makassar,,Indonesia,BRIDI
+1750208,BD75CWH,Arief,,Bone Bolango,,Indonesia,BRIDI
+1920033,BD92BCC,JHONAL,,Papua Barat,,Indonesia,BRIDI
+1960021,BD96ACX,TRI,BUDI,"Sorong Utara, Sorong",,Indonesia,BRIDI
+1960035,BD96RRR,KABUL,,"Sorong, Papua Barat Daya",,Indonesia,BRIDI
+1960079,BD96WXK,Atok,Prasetto,Sorong,,Indonesia,BRIDI
+1022988,DMRKITA,Jembatan,TG 510 dmrkita,DMR amatir,,Indonesia,BRIDI
 1022000,DMRLINK,LINK,,,,Indonesia,BRIDI
-
+2120001,JZ02EAB,ALI,AKBAR,LANGKAT,,Indonesia,BRIDI
